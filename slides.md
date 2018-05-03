@@ -2,9 +2,9 @@
 
 ## Quí som
 
-### Associcació
+### Associació
 
-Software lliure per l'economia social
+Software lliure per a l'economia social
 
 Platform Coop
 
