@@ -1,6 +1,15 @@
-# Coopdevs
+title: Coopdevs
+layout: true
 
 ---
+
+class: impact
+
+# {{title}}
+
+---
+
+class: impact
 
 ## Quí som
 
@@ -23,6 +32,8 @@ Impulsem Platform Coops
 Paraigües legal per dedicar-se a Coopdevs de forma professional
 
 ---
+
+class: impact
 
 ## Projectes
 
@@ -54,6 +65,8 @@ SomConnexió, Balanç Social, Blog posts, Presentacions, etc.
 
 ---
 
+class: impact
+
 ## Aposta Tech
 
 Aportar últimes tecnologies i pràctiques a un sector que no hi està acostumat
@@ -83,6 +96,8 @@ The best tool for the job TM
 ### Metodologies àgils
 
 ---
+
+class: impact
 
 ## Visió del sector
 
