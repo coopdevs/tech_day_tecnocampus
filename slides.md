@@ -10,7 +10,7 @@ Platform Coop
 
 ### Cooperativa de Treball
 
-Paraigües legal per fer Coopdevs a temps complet
+Paraigües legal per dedicar-se a Coopdevs de forma professional
 
 ## Aposta Tech
 
