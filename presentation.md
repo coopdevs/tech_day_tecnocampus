@@ -55,7 +55,7 @@ d'àmbit internacional
 
 ---
 
-### Odoo Coop
+### ERP per a l'ESS
 
 ---
 
