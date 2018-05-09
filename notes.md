@@ -19,7 +19,7 @@
 
 En el nostre sector:
 
-* Habilitats comunicatives i treball en equip. No es treballa mai sol.
+* Habilitats comunicatives, anglès i treball en equip. No es treballa mai sol.
 * Saber prendre les decisions i trade-offs per arribar a l'objectiu
 * Entendre les prioritats d'un projecte i aliniar-s'hi
 * Fonaments forts i capacitat d'aprendre
@@ -35,3 +35,20 @@ En el nostre sector:
 
 Hi ha potser certa mancança respecte els temes de metodologies de treball,
 organització de la feina, habilitats comunicatives?
+
+## Talk & Beer
+ 
+### Tipus d’activitat de la vostra empresa
+
+* Desenvolupament de projectes web: Open Food Network/Katuma i TimeOverflow
+* ERP per a l'economia social
+* Acompanyament en metodologies de treball a projectes que es volen fer oberts amb metod
+* Impuls de plataformes tecnològiques per l'economia social
+
+### Radiografia segons vosaltres de la situació de la professió
+
+Mirar punt sobre "tendències" al principi del document.
+
+### Tipus de perfils professionals a curt i mig temini en el sector
+
+Mirar punt sobre "perfil que es requereix.
