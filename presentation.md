@@ -33,6 +33,13 @@ Paraigües legal per dedicar-se a Coopdevs de forma professional
 
 ---
 
+class: full
+
+## ~~Maximitzar beneficis~~<br>
+## ~~Vendre l'empresa~~
+
+---
+
 class: impact
 
 ## Projectes
@@ -68,6 +75,8 @@ SomConnexió, Balanç Social, Blog posts, Presentacions, etc.
 class: impact
 
 ## Aposta Tech
+
+---
 
 Aportar últimes tecnologies i pràctiques a un sector que no hi està acostumat
 
